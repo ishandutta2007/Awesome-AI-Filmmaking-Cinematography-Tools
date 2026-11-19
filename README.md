@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Filmmaking-Cinematography-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Filmmaking-Cinematography-Tools?style=social" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Filmmaking-Cinematography-Tools/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Filmmaking-Cinematography-Tools?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Filmmaking-Cinematography-Tools/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Filmmaking-Cinematography-Tools?style=social" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Filmmaking-Cinematography-Tools/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -61,7 +61,7 @@ Explore the open-weight foundations and independent software tools driving the o
 
 ### Top Open-Source Filmmaking Repositories (Sorted by Stars)
 
-Each project below is ordered by GitHub star count (descending) and features an interactive badge linked directly to its GitHub stargazers page.
+Each project below is ordered by GitHub Stars_Count (descending) and features an interactive badge linked directly to its GitHub stargazers page.
 
 1. **[ComfyUI](https://github.com/Comfy-Org/ComfyUI)** [![Stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=social&color=white)](https://github.com/Comfy-Org/ComfyUI/stargazers)  
    The industry-standard node-based modular execution graph for generative AI cinema, driving local Wan2.1, HunyuanVideo, LTX-Video, and AnimateDiff pipelines.
